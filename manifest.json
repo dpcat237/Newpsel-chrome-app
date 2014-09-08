@@ -1,6 +1,6 @@
 {
     "name": "Newpsel",
-    "description": "Newpsel - News Personal Selector. RSS feeds reader.",
+    "description": "Be more productive selecting, reading, listening and sharing news.",
     "app": {
         "urls": ["http://www.newpsel.com/"],
         "launch": {
@@ -9,7 +9,7 @@
     },
     "manifest_version": 2,
     "update_url": "http://clients2.google.com/service/update2/crx",
-    "version": "0.1",
+    "version": "1.0.0",
     "icons": {
         "128": "icon.png"
     }
